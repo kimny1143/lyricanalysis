@@ -17,3 +17,10 @@
 ## セットアップ
 
 1. リポジトリをクローン:
+2. .envを作成 (.envの例は以下の通りです)
+
+GENIUS_CLIENT_ID=[クライアントID]
+GENIUS_CLIENT_SECRET=[クライアントシークレット]
+GENIUS_ACCESS_TOKEN=[アクセストークン]
+
+
